@@ -57,7 +57,7 @@ kids_hist = plt.hist(resp['numkdhh'], align='mid')
 ```
 
 
-![png](output_4_0.png)
+![png](statistics/Think Stats Chapter 3 Exercise 1/output_4_0.png)
 
 
 
