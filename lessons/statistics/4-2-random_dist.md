@@ -67,7 +67,7 @@ plt.step(list(rand_pmf.keys()), list(rand_pmf.values()), where='post')
 
 
 
-![png](output_4_1.png)
+![png](https://github.com/adrianrlaus/dsp/blob/master/lessons/statistics/Think%20Stats%20Chapter%204%20Exercise%202/output_5_1.png)
 
 
 
@@ -107,7 +107,7 @@ plt.step(list(rand_cdf.keys()), list(rand_cdf.values()), where='post')
 
 
 
-![png](output_7_1.png)
+![png](https://github.com/adrianrlaus/dsp/blob/master/lessons/statistics/Think%20Stats%20Chapter%204%20Exercise%202/output_9_1.png)
 
 
 
