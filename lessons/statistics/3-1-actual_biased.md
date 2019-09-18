@@ -3,6 +3,9 @@
 
 
 
+
+
+
 ```python
 import thinkstats2 as thinkstats
 import thinkplot
