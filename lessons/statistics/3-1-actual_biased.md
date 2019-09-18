@@ -126,7 +126,7 @@ plt.step(list(kids_pmf.keys()), list(kids_pmf.values()), where='post')
 
 
 
-![png](output_8_1.png)
+![png](https://github.com/adrianrlaus/dsp/blob/master/lessons/statistics/Think%20Stats%20Chapter%203%20Exercise%201/output_8_1.png)
 
 
 
@@ -177,7 +177,7 @@ plt.step(list(kids_pmf_bias.keys()), list(kids_pmf_bias.values()), where='post')
 
 
 
-![png](output_10_1.png)
+![png](https://github.com/adrianrlaus/dsp/blob/master/lessons/statistics/Think%20Stats%20Chapter%203%20Exercise%201/output_10_1.png)
 
 
 
@@ -198,7 +198,7 @@ plt.legend(title='Biased vs Un-biased Distributions')
 
 
 
-![png](output_11_1.png)
+![png](https://github.com/adrianrlaus/dsp/blob/master/lessons/statistics/Think%20Stats%20Chapter%203%20Exercise%201/output_11_1.png)
 
 
 
