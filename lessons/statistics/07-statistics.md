@@ -97,7 +97,10 @@ Probablity that he was identical: Pr(identical) = 1/300
 
 Probability that he was fraternal, given that he had a twin: Pr(had twin|fraternal) = 1/2 Because you can either have a male or female fraternal twin.
 
-So using Bayes' Theorem: Pr(identical|has twin) = (Pr(has twin|identical)Pr(identical)) / (Pr(has twin|identical)Pr(identical) + Pr(has twin|fraternal)Pr(fraternal))
+So using Bayes' Theorem: 
+                                  (Pr(has twin|identical)Pr(identical))  
+      Pr(identical|has twin) =   ___
+                  (Pr(has twin|identical)Pr(identical) + Pr(has twin|fraternal)Pr(fraternal))
 
                       = (1 * 1/300) / (1 * 1/300 + 1/2 * 1/125)
                       = 5/11
