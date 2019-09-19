@@ -113,7 +113,11 @@ Pr(identical|has twin) = (Pr(has twin|identical)Pr(identical)) / Pr(has twin bro
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> ---
+
+          Frequentists statistics are based on long-term frequencies. According to the frequentist's definition of probability, only repeatable, random events can have probability. This probability is equal to the long-term frequency that is observed. Frequentists don't attach probability to hypothetical events or unknown values. 
+          
+          Bayesian statistics on the other hand, use probabilities to represent the uncertainty in any event or hypothesis. It is acceptable to havea probability for unrepeatable events. 
 
 ---
 
